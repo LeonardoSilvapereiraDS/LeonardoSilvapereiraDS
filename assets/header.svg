@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Leonardo Silva — Developer in progress</title>
+  <desc id="desc">Banner escuro com detalhes em azul e roxo. Java, C#, Python e SQL. Leveling up.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#151126"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b9ccff" stroke-opacity="0.045"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="19" fill="none" stroke="#30334c"/>
+  <path d="M54 54H90M54 54V90M1146 306H1110M1146 306V270" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="86" y="89" fill="#a78bfa" font-family="Consolas,monospace" font-size="15" letter-spacing="4">『 SYSTEM ONLINE 』</text>
+    <text x="86" y="165" fill="#f1f5ff" font-size="57" font-weight="700" letter-spacing="-1">Leonardo Silva</text>
+    <text x="89" y="207" fill="#b9c4db" font-size="23">Developer in progress</text>
+    <rect x="89" y="235" width="66" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="89" y="277" fill="#8293b3" font-family="Consolas,monospace" font-size="16" letter-spacing="2">JAVA  /  C#  /  PYTHON  /  SQL</text>
+    <rect x="903" y="74" width="211" height="38" rx="19" fill="#a78bfa" fill-opacity="0.08" stroke="#504472"/>
+    <circle cx="927" cy="93" r="4" fill="#91b7ff"/>
+    <text x="945" y="98" fill="#c7bded" font-family="Consolas,monospace" font-size="13" letter-spacing="2">LEVELING UP</text>
+    <text x="952" y="225" fill="none" stroke="#7788c6" stroke-opacity="0.25" stroke-width="1.5" font-family="Consolas,monospace" font-size="96">&lt;/&gt;</text>
+    <text x="938" y="277" fill="#7987a7" font-family="Consolas,monospace" font-size="12" letter-spacing="3">LEARN. BUILD. REPEAT.</text>
+  </g>
+</svg>
