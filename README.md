@@ -15,6 +15,24 @@
 
 ---
 
+## Tecnologias
+
+<p align="center">
+  <img src="assets/stack/java.svg" width="116" alt="Java" />
+  <img src="assets/stack/csharp.svg" width="116" alt="C#" />
+  <img src="assets/stack/python.svg" width="116" alt="Python" />
+  <img src="assets/stack/sql.svg" width="116" alt="SQL" />
+  <img src="assets/stack/dotnet.svg" width="116" alt=".NET" />
+  <img src="assets/stack/sqlite.svg" width="116" alt="SQLite" />
+</p>
+
+<p align="center">
+  <sub>Linguagens e ferramentas dos meus estudos e projetos.</sub><br />
+  <sub>ASP.NET Core · Windows Forms · Entity Framework Core</sub>
+</p>
+
+---
+
 ## Sobre mim
 
 Olá! Sou o **Leonardo Silva**, estudante de Desenvolvimento de Sistemas no Brasil.
@@ -29,14 +47,6 @@ Meu foco atual é aprofundar os estudos em **Java e C#**, entender melhor a orga
   Main quest  Transformar aprendizado em projetos
   Status      LEVELING UP
 ```
-
-## Tecnologias
-
-Ferramentas e linguagens que fazem parte dos meus estudos e projetos:
-
-| Linguagens | Desenvolvimento | Dados |
-| --- | --- | --- |
-| Java · C# · Python · SQL | .NET · ASP.NET Core · Windows Forms | SQLite · Entity Framework Core |
 
 ## Projetos
 
@@ -70,3 +80,4 @@ Aplicação de controle financeiro para Windows, organizada em camadas de domín
 </p>
 
 <p align="center"><sub>LEARN · BUILD · LEVEL UP</sub></p>
+

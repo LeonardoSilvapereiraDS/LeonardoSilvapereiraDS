@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="190" viewBox="0 0 160 190" role="img" aria-label="SQL">
+  <title>SQL</title>
+  <rect x="4" y="4" width="152" height="182" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="4.5" y="4.5" width="151" height="122" rx="15" fill="#3b82f6" fill-opacity="0.06"/>
+  <path d="M29 5h102" stroke="#3b82f6" stroke-width="2" stroke-opacity="0.8"/>
+  <svg x="34" y="22" width="92" height="100" viewBox="0 0 128 128"><defs><linearGradient id="db" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs><path d="M16 27v73c0 13 96 13 96 0V27" fill="url(#db)"/><ellipse cx="64" cy="27" rx="48" ry="17" fill="#93c5fd"/><path d="M16 51c0 23 96 23 96 0M16 76c0 23 96 23 96 0" fill="none" stroke="#bfdbfe" stroke-width="5"/><circle cx="94" cy="99" r="4" fill="#dbeafe"/></svg>
+  <rect x="17" y="139" width="126" height="29" rx="6" fill="#3b82f6"/>
+  <text x="80" y="158" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" text-anchor="middle">SQL</text>
+</svg>
