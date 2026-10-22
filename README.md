@@ -75,9 +75,6 @@ Aplicação de controle financeiro para Windows, organizada em camadas de domín
 ---
 
 <p align="center">
-  <i>“Ever tried. Ever failed. No matter.<br />Try again. Fail again. Fail better.”</i><br />
-  <sub>Samuel Beckett</sub>
+  <img src="assets/quote.svg" width="680" alt="Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. — Samuel Beckett. LEARN · BUILD · EVOLVE." />
 </p>
-
-<p align="center"><sub>LEARN · BUILD · LEVEL UP</sub></p>
 
